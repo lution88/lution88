@@ -6,10 +6,10 @@
   
 </p>
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+  안녕하세요. 백엔드 개발자를 꿈꾸는 윤 정기입니다.<br/>
+  저는 현재 웹 서비스 백엔드 개발을 위한 Djang, Python 기술을 사용하고 있습니다.<br/><br/>
+  진득하게 어떠한 문제를 해결하는 것을 좋아하고, <br/>
+  주도적으로 성장해 나가는 그런 개발자가 되는 것이 목표입니다..!! ✨ <br/><br/>
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lution88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)
